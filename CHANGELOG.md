@@ -2,6 +2,25 @@
 
 ## Release (2024-08-20)
 
+tree-sitter-glimmer 1.5.0 (minor)
+
+#### :rocket: Enhancement
+* `tree-sitter-glimmer`
+  * [#158](https://github.com/ember-tooling/tree-sitter-glimmer/pull/158) Add comment injections ([@NullVoxPopuli](https://github.com/NullVoxPopuli))
+
+#### :bug: Bug Fix
+* `tree-sitter-glimmer`
+  * [#159](https://github.com/ember-tooling/tree-sitter-glimmer/pull/159) Sync injections with nvim treesitter ([@NullVoxPopuli](https://github.com/NullVoxPopuli))
+
+#### :house: Internal
+* `tree-sitter-glimmer`
+  * [#156](https://github.com/ember-tooling/tree-sitter-glimmer/pull/156) Update prettier ([@NullVoxPopuli](https://github.com/NullVoxPopuli))
+
+#### Committers: 1
+- [@NullVoxPopuli](https://github.com/NullVoxPopuli)
+
+## Release (2024-08-20)
+
 tree-sitter-glimmer 1.4.0 (minor)
 
 #### :rocket: Enhancement
